@@ -1,7 +1,8 @@
 Package.describe({
-    name: 'dimseservice',
+    name: 'lancelotsmith:dimseservice',
     summary: 'DICOM DIMSE C-Service',
-    version: '0.0.1'
+    version: '0.0.1',
+    git:"https://github.com/lancelotsmith/dimseservice.git"
 });
 
 Package.onUse(function(api) {
